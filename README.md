@@ -1729,6 +1729,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [itch.io](https://itch.io/game-assets) —  Free/Paid assets like sprites, tile sets, character packs, ...
   * [GameDevMarket](https://gamedevmarket.net) — Free/Paid assets like 2D, 3D, Audio, GUI.
   * [OpenGameArt](https://opengameart.org) —  OpenSource Game Assets like music, sounds, sprites, gifs, ...
+  * [Gamefresco](http://gamefresco.com/) —  Artist generated game asset sharing platform to collect and share game assets from game artists everywhere.
   * [CraftPix](https://craftpix.net) — Free/Paid assets like 2D, 3D, Audio, GUI, backgrounds, icons, tile sets, game kits.
   * [Game Icons](https://game-icons.net/) - Free styleable SVG/PNG icons provided under CC-BY license.
   * [LoSpec](https://lospec.com/) — Online tools for creating pixel art and other restrictive digital art, lots of tutorials/pallet list available to choose for your games
